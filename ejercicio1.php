@@ -27,6 +27,7 @@ function generarClave($nombre, $fecha) {
 <head>
     <meta charset="UTF-8">
     <title>Generador de claves</title>
+     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
     <h1>Generador de claves de identificación</h1>
